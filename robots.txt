@@ -1,0 +1,11 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hireahackeruk.com/sitemap.xml
+Sitemap: https://hireahackeruk.com/sitemap-images.xml
+
+Disallow: /admin/
+Disallow: /private/
+Disallow: /thank-you/
+
+Crawl-delay: 1
